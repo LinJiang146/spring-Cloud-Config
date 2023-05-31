@@ -1,0 +1,12 @@
+# Project exclude paths
+/eureka_13000/target/
+/eureka_13001/target/
+/gateway/target/
+/service_customer_12000/target/
+/service_customer_12001/target/
+/service_provider_11000/target/
+/service_provider_11001/target/
+# Project exclude paths
+/config/target/
+/config1001/target/
+/config1002/target/
